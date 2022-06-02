@@ -1,0 +1,25 @@
+
+
+
+
+
+Bonnie Williams -- Seller -- Has several houses, some in bad neighborhoods, willing to evict people, timing?, big returns, open for renovations
+
+Objective:
+Provide recommendations as to whether a house should be renovated before sale in order to maximize its price, while taking into account location, price segment, and overall condition of houses (and other relevant factors).
+Which house to sell? When to sell? Renovate or not?
+
+
+RQ1: Does renovation/house condition affect house prices?
+H1: House prices are higher the better the condition/the more recently a house has been renovated.
+
+RQ2: Does the effect of renovation/house condition on house prices vary between "bad" (low-price, less popular) and "good" (high-price, more popular) neighbourhoods?
+H2: In bad neighbourhoods, house prices are more affected by renovation/condition than in good neighborhoods.
+
+RQ3: What else affects the relationship between renovation and house prices?
+H3.1: Last renovation
+H3.2: Overall house condition is more meaningful measurement.
+H3.4: House/lot size?
+H3.5: Waterfront/view?
+
+
